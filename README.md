@@ -17,6 +17,6 @@
 https://getcomposer.org/
 
 **ใน folder Project ใช้ cmd --> cd ไปยังที่อยู่ Project 
-แล้วใส่ตามด้านล่างนี้
+แล้วใส่ตามนี้
 composer require chillerlan/php-qrcode 
 เพื่อเรียกใช้งาน
